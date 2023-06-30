@@ -57,5 +57,5 @@ Reversed signature checking:
       return bTrust;
     }
 
-# ## Extra info
+### Extra info
 I found a function which lists all signatures that they allow, you can find them [here](https://github.com/Jasper1467/GOG_SignatureCheckBypass/blob/master/GOG_SignatureCheckBypass/Signatures.txt).
